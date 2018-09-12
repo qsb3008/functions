@@ -1,0 +1,8 @@
+{
+  "name": "git-res",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/qsb3008/functions.git",
+  "author": "v_shunbinqiu <v_shunbinqiu@webank.com>",
+  "license": "MIT"
+}
