@@ -12,7 +12,12 @@ let test = function (text) {
   console.log('text : ', text)
 }
 
+let test2 = function (text) {
+  console.log('text2 : ', text)
+}
+
 module.exports = {
   fixed2,
-  test
+  test,
+  test2
 }
