@@ -2,7 +2,11 @@
   "name": "git-res",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "",
   "repository": "https://github.com/qsb3008/functions.git",
   "author": "v_shunbinqiu <v_shunbinqiu@webank.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
